@@ -1,0 +1,21 @@
+.foto{
+    display: inline-block;
+    height: 500px;
+    width: 510px;
+
+}
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+/*
+div{
+    display: inline-block;
+}
+*/
+p{
+    color: rgb(37, 37, 236);
+    text-align: center;
+}
